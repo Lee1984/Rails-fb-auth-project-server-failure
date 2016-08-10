@@ -13,3 +13,5 @@ and also when running
 C:\sites\blog rails g model user provider uid name oauth_token oauth_expires_at:datetime
 
 Note: SSL certificate is not installed (could not figure out how to do that)
+
+Some people have had success running, "require 'omniauth-facebook'" in development or production file. Or "require_relative 'helpers/omniauth'" in helpers file with rspec.
