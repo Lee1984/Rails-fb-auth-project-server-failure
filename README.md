@@ -1,5 +1,8 @@
 # Rails-fb-auth-project-server-failure
-facebook authentication example error message
+
+This repository contains all files for facebook authentication rails project by rich on rails
+
+error message is happening when trying to run server or create a model file (error lised in 'issues'
 
 Getting this error when running 
 
