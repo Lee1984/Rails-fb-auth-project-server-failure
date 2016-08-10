@@ -2,7 +2,7 @@
 
 This repository contains all files for facebook authentication rails project by rich on rails
 
-error message is happening when trying to run server or create a model file (error lised in 'issues'
+error message is happening when trying to run server or create a model file (server error lised in 'issues')
 
 Getting this error when running 
 
